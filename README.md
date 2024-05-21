@@ -1,7 +1,6 @@
 # .github
 Destinado a locação de carros, projeto para desenvolver um SW usando a metodologia Scrum
 ##
-APENAS O PO DO GRUPO DEVE ENVIAR.
 
 Todos os membros do grupo deverão ter realizado commits
 A sprint terá duração de uma semana, ao término de cada sprint será necessário um release com um MVP.
